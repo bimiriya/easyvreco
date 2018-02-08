@@ -1,0 +1,22 @@
+{
+  "name": "easy-vreco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bimiriya/easy-vreco.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bimiriya/easy-vreco/issues"
+  },
+  "homepage": "https://github.com/bimiriya/easy-vreco#readme",
+  "dependencies": {
+    "bootstrap3": "^3.3.5"
+  }
+}
